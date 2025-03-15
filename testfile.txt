@@ -1,0 +1,12 @@
+This is a test file for Git tracking and demonstration purposes.
+
+
+---
+
+### ✅ **Final Steps**
+1. **Commit & Push** these changes to GitHub:
+   ```bash
+   git add .
+   git commit -m "Updated README and setup guide for Apache EC2 deployment"
+   git push origin main
+
